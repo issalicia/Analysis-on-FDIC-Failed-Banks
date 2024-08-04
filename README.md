@@ -1,1 +1,4 @@
 # Analysis-on-FDIC-Failed-Banks
+This project was created to analyze the "FDIC Failed Bank List" dataset from data.gov, supplemented by additional FDIC data on banks' assets and deposits, to study the correlation between economic events and bank failures in the U.S. from 2000 to 2023. 
+By linking datasets through the unique CERT identifier, we visualized how economic changes impact bank failures. 
+Our findings indicated that higher customer deposits correlate with higher asset values, reducing the likelihood of bank failure. We created dashboards showcasing various aspects, including banks that failed and were acquired, those that failed without acquisition, and the asset/deposit ratio over time. This project highlights the significant influence of economic events on the financial stability of banks
